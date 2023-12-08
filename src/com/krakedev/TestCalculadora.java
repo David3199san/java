@@ -23,6 +23,7 @@ public class TestCalculadora {
 		System.out.println("El resultado de 10 * 5 es: "+resultadoMultiplicar);
 		System.out.println("El resultado de 10/2 es: "+resultadoDividir);
 		System.out.println("El promedio de 10, 7, 8 es: "+resultadoPromediar);
+		calcu.mostrarResultado();
 	}
 
 }
